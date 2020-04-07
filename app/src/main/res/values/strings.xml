@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">COVID 19 APP</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="input_placeholder">Write a message</string>
+    <string name="text_title">Android Tutorials Hub</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="starting_words">
+
+        CORONA(COVID-19) PROTECTION IS \nEVERYTHING!
+    </string>
+
+    <string name="main_words">
+
+        Corona virus disease(COVID-19) is a new strain \nthat was discovered in 2019 and has not been \npreviously identified in humans. Reported \nillnesses have ranged from mild symptoms to severe illness and death for confirmed\ncorona virus diseases 2019(COVID-19) cases.
+    </string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="about">Covid-19 is a app that collects the recent data about the pandemic corona virus
+    and provides the useful information to the user dynamically. I made a use of an api to fetch the stats about
+    corona on different nations of the world. </string>
+</resources>
